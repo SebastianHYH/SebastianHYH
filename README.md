@@ -18,7 +18,7 @@ fun fact: I play the clarinet!
 ```
 
 ## My GitHub History 🧑‍💻
-[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianHYH&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianHYH&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianHYH&layout=compact&line_height=50)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/SebastianHYH/SebastianHYH/blob/output/github-contribution-grid-snake.svg)
